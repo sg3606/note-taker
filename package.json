@@ -18,6 +18,7 @@
   "homepage": "https://github.com/sg3606/note-taker#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "params": "^0.1.1",
     "path": "^0.12.7"
   }
 }
