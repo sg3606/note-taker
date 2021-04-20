@@ -17,7 +17,7 @@
   ## Finished_Requirements
   * Presented with a landing page with a link to a notes page
 
-  * presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
+  * Presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
 
   * Save note
 
@@ -25,7 +25,7 @@
 
   * Click an existing note and note appears in the right-hand column
 
-  * All requirements finished inclued deleting note
+  * All requirements finished include deleting note
 
   ## Demo
   ![Demo](./herokuapp.gif)
